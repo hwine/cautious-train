@@ -1,2 +1,2 @@
 # cautious-train
-test of requird commit signing
+test of required commit signing
